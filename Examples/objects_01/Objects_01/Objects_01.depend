@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1399509221 source:e:\nssa\c++\iste100\examples\objects_01\objects_01\box.cpp
+	<iostream>
+	<iomanip>
+	"Box.h"
+
+1399509221 e:\nssa\c++\iste100\examples\objects_01\objects_01\box.h
+
+1399509221 source:e:\nssa\c++\iste100\examples\objects_01\objects_01\main.cpp
+	<iostream>
+	"Box.h"
+
