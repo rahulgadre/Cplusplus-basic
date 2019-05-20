@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1379560985 source:c:\users\berenbao\documents\teaching\alfred state\fall 2013\cisy 5123\labs\lab 04\solution\lab04ex01\lab04ex01.cpp
+	<iostream>
+	<cmath>
+
+1392511008 source:e:\nssa\c++\iste100\lab04\lab04\lab04ex01\lab04ex01.cpp
+	<iostream>
+	<cmath>
+
+1392513384 source:e:\nssa\c++\iste100\lab04\lab04\lab04ex02\lab04ex01.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
